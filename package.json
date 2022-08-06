@@ -1,0 +1,18 @@
+{
+  "name": "mhamdany",
+  "version": "1.0.0",
+  "description": "belajar node js with bang dea afrizal",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "mhamdany"
+  ],
+  "author": "mhamdany",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "rupiah-format": "^1.0.0"
+  }
+}
